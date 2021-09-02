@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/colorSecondary"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/group_acces_image"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_marginRight="5dp"
+        android:src="@drawable/ic_baseline_lock_24" />
+
+    <TextView
+        android:id="@+id/group_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_toRightOf="@+id/group_acces_image"
+        android:text="@string/group_name" />
+
+
+
+    <TextView
+        android:id="@+id/group_acces"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/group_type"
+        android:layout_toRightOf="@+id/group_acces_image"
+        android:layout_below="@+id/group_title"/>
+
+    <TextView
+        android:id="@+id/text_separator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_below="@+id/group_title"
+        android:layout_toRightOf="@+id/group_acces"/>
+
+
+    <TextView
+        android:id="@+id/group_members"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/group_title"
+        android:layout_toEndOf="@+id/text_separator"
+        android:text="50 members" />
+
+    <TextView
+        android:id="@+id/group_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/group_type"
+        android:layout_below="@+id/group_acces"
+        android:layout_toRightOf="@+id/group_acces_image"/>
+</RelativeLayout>

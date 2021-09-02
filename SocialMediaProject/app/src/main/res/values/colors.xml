@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Own colors -->
+    <color name="colorPrimary">#5C5BE5</color>
+    <color name="colorPrimarySurface">#5C5BE5</color>
+
+    <color name="colorSecondary">#9292E3</color>
+
+    <color name="colorAccent">#9292E3</color>
+    <color name="colorLight">#C5CAE9</color>
+
+    <!-- Text colors-->
+    <color name="colorTitle">#FF000000</color>
+    <color name="colorText">#647A90</color>
+    <color name="colorTextAccent">#5C5BE5</color>
+
+    <color name="colorTitleDark">#323D48</color>
+    <color name="colorTextDark">#647A90</color>
+    <color name="colorTextAccentDark">#5C5BE5</color>
+
+    <!-- Background colors-->
+    <color name="colorBackground">#F5F5F5</color>
+
+    <color name="colorBackgroundCard">#FFFFFF</color>
+
+    <color name="black">#FF000000</color>
+    <color name="gray">#C5CAE9</color>
+    <color name="silver">#E1E4F6</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#ba53de</color>
+    <color name="pink">#f469a9</color>
+    <color name="blue">#88bef5</color>
+    <color name="red">#D32F2F</color>
+    <color name="green">#388E3C</color>
+</resources>

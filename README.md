@@ -1,14 +1,34 @@
 # Application Mobile : Publication et Partage de Médias
 
-<p align="center">
-  <img src="https://i0.wp.com/www.pixelspot.net/wp-content/uploads/2018/10/Android-Developers.png" width="1200px" title="Android development">
+
+
+## Screenshots
+<p align="middle">
+  <img src="SocialMediaProject/screenshots/11.jpg" width="300" />
+  <img src="SocialMediaProject/screenshots/2.jpg" width="300" /> 
+  <img src="SocialMediaProject/screenshots/1.jpg" width="300" />
 </p>
+
+<p align="middle">
+  <img src="SocialMediaProject/screenshots/4.jpg" width="300" />
+  <img src="SocialMediaProject/screenshots/5.jpg" width="300" /> 
+  <img src="SocialMediaProject/screenshots/6.jpg" width="300" />
+</p>
+
+<p align="middle">
+  <img src="SocialMediaProject/screenshots/8.jpg" width="300" />
+  <img src="SocialMediaProject/screenshots/9.jpg" width="300" /> 
+  <img src="SocialMediaProject/screenshots/10.jpg" width="300" />
+</p>
+
 
 
 ## Description
 
 Il s’agit de créer une application mobile pour offrir des services de publication et partage de
 médias (textes, images, vidéo) tels que Facebook, WhatsApp ou les forums.
+
+
 
 ## Cahier des charges
 

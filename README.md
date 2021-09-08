@@ -6,18 +6,20 @@
 <p align="middle">
   <img src="SocialMediaProject/screenshots/11.jpg" width="300" />
   <img src="SocialMediaProject/screenshots/2.jpg" width="300" /> 
-  <img src="SocialMediaProject/screenshots/1.jpg" width="300" />
 </p>
 
 <p align="middle">
-  <img src="SocialMediaProject/screenshots/4.jpg" width="300" />
+    <img src="SocialMediaProject/screenshots/1.jpg" width="300" />
+    <img src="SocialMediaProject/screenshots/4.jpg" width="300" />
+</p>
+
+<p align="middle">
   <img src="SocialMediaProject/screenshots/5.jpg" width="300" /> 
   <img src="SocialMediaProject/screenshots/6.jpg" width="300" />
 </p>
 
 <p align="middle">
   <img src="SocialMediaProject/screenshots/8.jpg" width="300" />
-  <img src="SocialMediaProject/screenshots/9.jpg" width="300" /> 
   <img src="SocialMediaProject/screenshots/10.jpg" width="300" />
 </p>
 
